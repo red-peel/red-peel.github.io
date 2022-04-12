@@ -1,4 +1,5 @@
-## Welcome! This is my GitHub Tutorial
+## Welcome! 
+This is a tutorial for GitHub Pages
 
 1. Create a GitHub account for free [here](https://github.com/join)
 ---
