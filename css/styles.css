@@ -1,0 +1,16 @@
+img{
+    max-width: 100%;
+}
+
+body{
+    background-image: linear-gradient(to right, rgb(185, 129, 215) , rgb(217, 217, 217));
+}
+
+#centerBannerText {
+    text-align: center;
+    font-size: large;
+}
+
+.callToAction{
+    padding: 20px 20px;
+}
